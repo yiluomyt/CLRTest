@@ -1,5 +1,6 @@
 ﻿using System;
 
+//一个简单的C#类库
 namespace CSharpDLL
 {
     public class CMyAddClass
